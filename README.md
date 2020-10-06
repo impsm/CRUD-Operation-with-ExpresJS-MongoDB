@@ -1,1 +1,1 @@
-# This application is created with NodeJS, ExpressJS and MongoDB.
+This application is created with NodeJS, ExpressJS and MongoDB.
